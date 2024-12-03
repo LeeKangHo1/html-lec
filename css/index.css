@@ -1,0 +1,6 @@
+.my-card-item-box {
+    display: grid;
+    /* 1fr -> 1은 비율 */
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
