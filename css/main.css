@@ -5,7 +5,7 @@
 }
 
 .img-container {
-    overflow: hidden; /* 라벨을 가운데 정렬 */
+    overflow: hidden; 
 }
 
 .img-container img {
