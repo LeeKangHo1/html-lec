@@ -1,0 +1,13 @@
+.my-color-primary {
+    background-color: #56CCF2 !important; /*에너제틱 블루*/
+}
+
+.my-none-ouline-button {
+    outline: none !important;
+}
+.my-none-ouline-button:hover {
+    background-color: #54b5f2 !important;
+}
+body {
+    background-color: #f3f3f3 !important;
+}

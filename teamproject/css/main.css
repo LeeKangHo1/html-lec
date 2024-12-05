@@ -1,5 +1,0 @@
-.wc-card-list {
-    display: grid;
-    grid-template-columns: repeat(5, 1fr); /* 5 열 설정 */
-    grid-gap: 10px; /* 카드 간격 */
-}

@@ -1,0 +1,8 @@
+.navbar {
+    padding: 0px;
+}
+
+ /* 네비게이션 바의 링크에 마우스를 올렸을 때 글자색 변경 */
+ .navbar-nav .nav-link:hover {
+    color: #56CCF2 !important;    
+}

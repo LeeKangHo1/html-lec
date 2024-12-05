@@ -1,0 +1,18 @@
+.middle-box {
+    max-width: 400px;
+    z-index: 100;
+    margin: 0 auto;
+    padding-top: 60px
+}
+.loginscreen.middle-box {
+    width: 300px
+}
+.animated.modal.fade .modal-dialog {
+    -webkit-transform: none;
+    -ms-transform: none;
+    -o-transform: none;
+    transform: none
+}
+.full-width {
+    width: 100% !important
+}

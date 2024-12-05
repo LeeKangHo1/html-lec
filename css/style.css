@@ -1,3 +1,6 @@
-@import url(index.css);
 @import url(detail.css);
+@import url(main.css);
+@import url(play.css);
+@import url(navbar.css);
+@import url(login-form.css);
 @import url(common.css);
