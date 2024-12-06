@@ -20,10 +20,11 @@
     text-align: center; /* 텍스트를 가운데 정렬 */
 }
 
+/* 대안: 지원 가능한 속성 추가 */
 .ellipsis-text {
-    display: -webkit-box;
-    -webkit-box-orient: vertical;
-    -webkit-line-clamp: 4; /* 원하는 줄 수로 설정 */
+    display: box;
+    box-orient: vertical;
+    line-clamp: 4; /* 원하는 줄 수로 설정 */
     overflow: hidden;
     text-overflow: ellipsis;
     font-size: 14px; /* 글자 크기 조정 */
